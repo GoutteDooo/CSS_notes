@@ -1,0 +1,13 @@
+div {
+  text-transform: uppercase;
+  border-top: 5px solid black;
+  color: blue;
+}
+
+span {
+  border: inherit;
+  color: initial;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
